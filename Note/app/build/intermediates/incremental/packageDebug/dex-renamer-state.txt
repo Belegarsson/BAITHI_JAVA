@@ -1,0 +1,7 @@
+#Wed Jun 14 09:12:36 ICT 2017
+base.0=E\:\\BAITHI_JAVA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_634c7a8158092a60e309b6ed950241a97a979565
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\BAITHI_JAVA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8047f8f00f339f929605efa76b30e2c15f65e1ca\\classes.dex
+base.1=E\:\\BAITHI_JAVA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8047f8f00f339f929605efa76b30e2c15f65e1ca
+file.0=E\:\\BAITHI_JAVA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_634c7a8158092a60e309b6ed950241a97a979565\\classes.dex

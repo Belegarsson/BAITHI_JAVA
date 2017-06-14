@@ -1,0 +1,4 @@
+#Wed Jun 14 09:12:36 ICT 2017
+base.0=E\:\\BAITHI_JAVA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=E\:\\BAITHI_JAVA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

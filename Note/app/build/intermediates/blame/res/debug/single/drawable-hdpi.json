@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\BAITHI_JAVA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notelist.png",
+        "source": "E:\\BAITHI_JAVA\\app\\src\\main\\res\\drawable-hdpi\\notelist.png"
+    },
+    {
+        "merged": "E:\\BAITHI_JAVA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_save.png",
+        "source": "E:\\BAITHI_JAVA\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_save.png"
+    },
+    {
+        "merged": "E:\\BAITHI_JAVA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notetop.png",
+        "source": "E:\\BAITHI_JAVA\\app\\src\\main\\res\\drawable-hdpi\\notetop.png"
+    },
+    {
+        "merged": "E:\\BAITHI_JAVA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\create_note.png",
+        "source": "E:\\BAITHI_JAVA\\app\\src\\main\\res\\drawable-hdpi\\create_note.png"
+    },
+    {
+        "merged": "E:\\BAITHI_JAVA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_delete.png",
+        "source": "E:\\BAITHI_JAVA\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "E:\\BAITHI_JAVA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\BAITHI_JAVA\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Wed Jun 14 09:12:35 ICT 2017
+base.0=E\:\\BAITHI_JAVA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_2a83cf82c2459e8f8bd79d564c93bfe8abee868f
+renamed.0=classes.dex
+file.0=E\:\\BAITHI_JAVA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_2a83cf82c2459e8f8bd79d564c93bfe8abee868f\\classes.dex
